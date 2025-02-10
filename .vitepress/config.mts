@@ -6,7 +6,7 @@ export default defineConfig({
   description: "我的日本旅行计划",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    outline: [2, 3],
+    outline: [2, 4],
     nav: [
       { text: '首页', link: '/' },
       { text: '整理好的计划', link: '/plan/index' },
