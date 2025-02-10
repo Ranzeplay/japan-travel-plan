@@ -17,3 +17,7 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 ## 网站
 
 - [圣地巡礼](https://anitabi.cn/)
+
+## 外币
+
+汇率较好的时候购入，出发一周内预约取现。
