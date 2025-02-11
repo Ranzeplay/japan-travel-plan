@@ -21,3 +21,9 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 ## 外币
 
 汇率较好的时候购入，出发一周内预约取现。
+
+## 电话卡
+
+小运营商的旅游卡（如Sakura Mobile）
+
+淘宝，启动！
