@@ -26,6 +26,7 @@ export default defineConfig({
           { text: '总览', link: '/sketch/index' },
           { text: 'DeepSeek的评价', link: '/sketch/ds-review' },
           { text: 'DeepSeek的计划', link: '/sketch/ds-plan' },
+          { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' }
         ]
       }
     ],
