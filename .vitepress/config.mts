@@ -23,7 +23,9 @@ export default defineConfig({
       {
         text: '草稿',
         items: [
-          { text: '总览', link: '/sketch/index' }
+          { text: '总览', link: '/sketch/index' },
+          { text: 'DeepSeek的评价', link: '/sketch/ds-review' },
+          { text: 'DeepSeek的计划', link: '/sketch/ds-plan' },
         ]
       }
     ],
