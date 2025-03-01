@@ -14,6 +14,8 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 
 - 十六番旅行
 
+- Sakura Navy
+
 ## 网站
 
 - [圣地巡礼](https://anitabi.cn/)
