@@ -17,7 +17,8 @@ export default defineConfig({
       {
         text: '整理好的计划',
         items: [
-          { text: '总览', link: '/plan/index' }
+          { text: '总览', link: '/plan/index' },
+          { text: '城市', link: '/plan/cities' }
         ]
       },
       {
