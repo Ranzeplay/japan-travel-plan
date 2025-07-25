@@ -28,7 +28,9 @@ export default defineConfig({
           { text: 'DeepSeek的评价', link: '/sketch/ds-review' },
           { text: 'DeepSeek的计划', link: '/sketch/ds-plan' },
           { text: 'DeepSeek的计划：先关西后关东', link: '/sketch/ds-plan-ew-switched' },
-          { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' }
+          { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' },
+          { text: '豆包的旅行计划', link: '/sketch/doubao-plan-initial' },
+          { text: '豆包的旅行计划（夜间巴士版）', link: '/sketch/doubao-plan-night-express' }
         ]
       }
     ],
