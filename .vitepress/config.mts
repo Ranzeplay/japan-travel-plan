@@ -19,7 +19,8 @@ export default defineConfig({
         items: [
           { text: '总览', link: '/plan/index' },
           { text: '城市', link: '/plan/cities' },
-          { text: '行前准备', link: '/plan/prep' }
+          { text: '行前准备', link: '/plan/prep' },
+          { text: '时间表', link: '/plan/timetable' }
         ]
       },
       {
