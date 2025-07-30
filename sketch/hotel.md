@@ -23,3 +23,4 @@ title: '酒店'
 
 - Sotetsu Fresa Inn Tokyo Tamachi
 - VESSEL INN UENO IRIYA EKIMAE
+- 9h nine hours Hamamatsucho sleep lab
