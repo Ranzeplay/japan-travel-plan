@@ -32,7 +32,8 @@ export default defineConfig({
           { text: 'DeepSeek的计划：先关西后关东', link: '/sketch/ds-plan-ew-switched' },
           { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' },
           { text: '豆包的旅行计划', link: '/sketch/doubao-plan-initial' },
-          { text: '豆包的旅行计划（夜间巴士版）', link: '/sketch/doubao-plan-night-express' }
+          { text: '豆包的旅行计划（夜间巴士版）', link: '/sketch/doubao-plan-night-express' },
+          { text: '酒店清单', link: '/sketch/hotel' }
         ]
       }
     ],
