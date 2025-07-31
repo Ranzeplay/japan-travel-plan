@@ -14,6 +14,7 @@ title: '酒店'
 # 奈良
 
 - Toyoko Inn Kintetsu Nara Ekimae
+- Grandvrio Hotel Nara Wakura
 
 # 京都
 
