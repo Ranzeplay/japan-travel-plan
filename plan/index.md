@@ -29,3 +29,7 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 小运营商的旅游卡（如Sakura Mobile）
 
 淘宝，启动！
+
+## 交通卡
+
+Suica卡或PASMO卡
