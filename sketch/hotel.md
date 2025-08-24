@@ -1,5 +1,5 @@
 ---
-title: '酒店'
+title: '酒店'/
 ---
 
 # 大阪
@@ -24,7 +24,7 @@ title: '酒店'
 
 > 2026.4.5 - 2026.4.7
 
-- Rak Kiyomizu
+- EN HOTEL Kyoto
 
 # 东京
 
