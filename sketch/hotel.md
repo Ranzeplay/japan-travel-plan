@@ -18,7 +18,7 @@ title: '酒店'/
 
 > 2026.4.4 - 2026.4.5
 
-- Toyoko Inn Kintetsu Nara Ekimae
+- Toyoko Inn Nara Shin-Omiya Ekimae
 
 # 京都
 
@@ -30,5 +30,5 @@ title: '酒店'/
 
 > 2026.4.7 - 2026.4.11
 
-- Guesthouse toco
-- 9h nine hours Hamamatsucho sleep lab
+- Vessel Inn Ueno Iriya Station (3 nights)
+- commun SHIBUYA (1 night)
