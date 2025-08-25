@@ -26,6 +26,11 @@ title: '酒店'/
 
 - EN HOTEL Kyoto
 
+> [!NOTE] 夜间巴士选择
+> - Willer Travel
+> - Bus Hikaku
+> - Japan Bus Online
+
 # 东京
 
 > 2026.4.7 - 2026.4.11
