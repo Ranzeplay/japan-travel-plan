@@ -20,6 +20,7 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 ## 网站
 
 - [圣地巡礼](https://anitabi.cn/)
+- [Ekitan](https://ekitan.com)
 
 ## 外币
 
