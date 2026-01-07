@@ -24,7 +24,7 @@ title: '酒店'
 
 > 2026.4.5 - 2026.4.6
 
-- EN HOTEL Kyoto
+- AB Hotel Kyoto Shijo Horikawa
 
 > [!NOTE] 夜间巴士选择
 > - Willer Travel
