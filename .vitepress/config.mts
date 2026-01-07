@@ -20,6 +20,7 @@ export default defineConfig({
           { text: '总览', link: '/plan/index' },
           { text: '城市', link: '/plan/cities' },
           { text: '行前准备', link: '/plan/prep' },
+          { text: '住宿', link: '/plan/hotel' },
           { text: '时间表', link: '/plan/timetable' }
         ]
       },
@@ -33,7 +34,6 @@ export default defineConfig({
           { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' },
           { text: '豆包的旅行计划', link: '/sketch/doubao-plan-initial' },
           { text: '豆包的旅行计划（夜间巴士版）', link: '/sketch/doubao-plan-night-express' },
-          { text: '酒店清单', link: '/sketch/hotel' },
           { text: 'Grok 3的建议', link: '/sketch/grok-review' }
         ]
       }
