@@ -27,13 +27,11 @@ title: '酒店'
 - AB Hotel Kyoto Shijo Horikawa
 
 > [!NOTE] 夜间巴士选择
-> - Willer Travel
-> - Bus Hikaku
-> - Japan Bus Online
+> - Willer Travel（确认）
 
 ## 东京
 
 > 2026.4.7 - 2026.4.11
 
-- Vessel Inn Ueno Iriya Station (3 nights)
-- commun SHIBUYA (1 night)
+- Vessel Inn Ueno Iriya Station (3晚)
+- commun SHIBUYA (1晚)

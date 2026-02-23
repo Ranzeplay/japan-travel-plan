@@ -28,9 +28,7 @@ https://maps.app.goo.gl/YBffpqAg9wZV2FiA6
 
 ## 电话卡
 
-小运营商的旅游卡（如Sakura Mobile）
-
-淘宝，启动！
+手机移动数据流量
 
 ## 交通卡
 
