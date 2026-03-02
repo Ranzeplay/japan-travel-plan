@@ -34,6 +34,7 @@ export default defineConfig({
           { text: 'DeepSeek坐夜间巴士', link: '/sketch/ds-optmz-night-express' },
           { text: '豆包的旅行计划', link: '/sketch/doubao-plan-initial' },
           { text: '豆包的旅行计划（夜间巴士版）', link: '/sketch/doubao-plan-night-express' },
+          { text: '预约需求整理', link: '/sketch/doubao-reservation' },
           { text: 'Grok 3的建议', link: '/sketch/grok-review' }
         ]
       }
