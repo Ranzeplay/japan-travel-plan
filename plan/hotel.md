@@ -12,7 +12,7 @@ title: '酒店'
 
 > 2026.4.3 - 2026.4.4
 
-- 2no HOME & PARK
+- Sotetsu Fresa Inn Kobe Sannomiya
 
 ## 奈良
 
