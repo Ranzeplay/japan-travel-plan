@@ -21,7 +21,8 @@ export default defineConfig({
           { text: '城市', link: '/plan/cities' },
           { text: '行前准备', link: '/plan/prep' },
           { text: '住宿', link: '/plan/hotel' },
-          { text: '时间表', link: '/plan/timetable' }
+          { text: '时间表', link: '/plan/timetable' },
+          { text: '圣地巡礼', link: '/plan/seichi-junrei' }
         ]
       },
       {
