@@ -22,7 +22,9 @@ export default defineConfig({
           { text: '行前准备', link: '/plan/prep' },
           { text: '住宿', link: '/plan/hotel' },
           { text: '时间表', link: '/plan/timetable' },
-          { text: '圣地巡礼', link: '/plan/seichi-junrei' }
+          { text: '圣地巡礼', link: '/plan/seichi-junrei' },
+          { text: '探店', link: '/plan/seichi-junrei' },
+          { text: '食物', link: '/plan/food' }
         ]
       },
       {

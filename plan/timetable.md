@@ -87,7 +87,7 @@ title: '时间表'
 - `H` 川越
   - `T` 1.5小时：`铁道` 东京 -> 川越
   - `H` 时之钟
-  - `H` Tourist Information Center Kawagoe
+  - `H` Tourist Information Center Kawagoe, 仲町观光案内所
   - `H` 冰川神社
   - `H` 冰川桥
   - `T` 1.5小时：`铁道` 川越 -> 东京
