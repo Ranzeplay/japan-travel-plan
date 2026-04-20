@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "去日本"
-  text: "我的日本旅行计划"
-  tagline: 圣地巡礼 & 观景 & 赏樱
+  name: "旅行计划"
+  text: "2026日本行"
+  tagline: 2026.4.1 ~ 2026.4.12
   actions:
     - theme: brand
       text: 整理好的计划
